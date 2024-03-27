@@ -1,0 +1,58 @@
+body{
+    background-image: url(passengertrain.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    height:30%;
+    width:40%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 50px;
+    background-color:rgb(168, 122, 122);
+    max-width: 50%;
+}
+h1{
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 65px;
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 105px;
+    text-align: center; 
+}
+.btns{
+    text-align:center;
+}
+#increment-btn{
+    width: 182px;
+    margin: 25px;
+    color:aliceblue;
+    background-color: brown;
+    font-size: 25px;
+    font-family: cursive;
+    padding: 5px;
+    border:2px solid black;
+    border-radius: 20px;
+}
+#save-btn{
+    width: 182px;
+    margin: 25px;
+    color:aliceblue;
+    background-color:green;
+    font-size: 25px;
+    font-family: cursive;
+    padding: 5px;
+    border:2px solid black;
+    border-radius: 20px;
+    
+}
+h3{
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
